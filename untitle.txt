@@ -10,4 +10,4 @@ echo.
 echo Date: %date%
 echo.
 ping -n 2 0.0.0.0>n
-goto main
+goto main 
